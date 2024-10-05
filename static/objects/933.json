@@ -1,0 +1,1 @@
+{"id":"933","name":"围栏Fence -  just closed","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"933","newTargetID":"550","decay":"1s"}],"craftable":false,"blocksWalking":true,"sounds":[78]}

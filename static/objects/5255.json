@@ -1,0 +1,1 @@
+{"id":"5255","name":"一桶葡萄汁Bucket of Grapes  - good","transitionsToward":[],"transitionsAway":[{"actorID":"5255","targetID":"4796","newActorID":"5257","newTargetID":"4796","targetRemains":true,"hand":true}],"transitionsTimed":[],"craftable":false,"size":2,"minPickupAge":3,"sounds":[74]}

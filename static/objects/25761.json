@@ -1,0 +1,1 @@
+{"id":"25761","name":"鳕鱼Cod  -  活动专用 ","transitionsToward":[{"targetID":"25756","newTargetID":"25761","decay":"1s"}],"transitionsAway":[],"transitionsTimed":[{"targetID":"25761","decay":"2s"}],"craftable":false,"size":1,"minPickupAge":3,"sounds":[1207],"techTree":[{"decay":"1s"},{"id":"25756","nodes":[{"id":"25749","nodes":[{"decay":"5s"},{"id":"25735","nodes":[]}]}]}]}

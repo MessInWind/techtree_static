@@ -1,0 +1,1 @@
+{"id":"791","name":"巨石碑Monolith","transitionsToward":[],"transitionsAway":[{"actorID":"689","targetID":"791","newTargetUses":"-1","newTargetID":"791","targetRemains":true,"hand":true},{"actorID":"689","targetID":"791","targetUses":"last","newTargetID":"792","hand":true}],"transitionsTimed":[],"numUses":3,"craftable":false,"blocksWalking":true,"sounds":[400]}

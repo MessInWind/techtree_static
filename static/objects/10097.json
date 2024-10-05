@@ -1,0 +1,1 @@
+{"id":"10097","name":"鱼骨瓦罐Crock with Fish Bones","transitionsToward":[],"transitionsAway":[{"actorID":"1226","targetID":"10097","newActorID":"235","newTargetID":"10098","hand":true}],"transitionsTimed":[],"craftable":false,"size":2,"minPickupAge":3,"sounds":[1488]}

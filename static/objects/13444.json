@@ -1,0 +1,1 @@
+{"id":"13444","name":"啤酒厂用沸水Brewery with Boiling Water  - closed","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"13444","newTargetID":"13445","decay":"10s"}],"craftable":false,"blocksWalking":true,"sounds":[890,102]}

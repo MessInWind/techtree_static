@@ -1,0 +1,1 @@
+{"id":"8513","name":"盘子里的土豆泥Mashed Potato on Plate","transitionsToward":[],"transitionsAway":[{"actorID":"8513","newActorID":"236","targetPlayer":true,"hand":true}],"transitionsTimed":[],"foodValue":[8,0],"craftable":false,"minPickupAge":3,"sounds":[1207,283]}

@@ -1,0 +1,1 @@
+{"id":"13952","name":"禁止锤Ban Hammer  - modTool  - justUsed","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"13952","newTargetID":"13948","decay":"1s"}],"craftable":false,"minPickupAge":3,"speedMult":4,"blocksWalking":true}

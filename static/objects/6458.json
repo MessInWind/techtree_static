@@ -1,0 +1,1 @@
+{"id":"6458","name":"石墙Stone Wall - blacksmithflag","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"6458","newTargetID":"8641","decay":"10h"}],"craftable":false,"insulation":0.9,"blocksWalking":true,"sounds":[746]}

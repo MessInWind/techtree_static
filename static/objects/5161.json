@@ -1,0 +1,1 @@
+{"id":"5161","name":"斯巴达的王冠Crown of Sparta","transitionsToward":[],"transitionsAway":[{"actorID":"5161","targetID":"4436","newActorID":"5161","newTargetID":"5178","hand":true,"tool":true}],"transitionsTimed":[],"craftable":false,"clothing":"h","insulation":0,"size":1,"minPickupAge":3,"speedMult":0.5}

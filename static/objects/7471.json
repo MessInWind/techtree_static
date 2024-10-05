@@ -1,0 +1,1 @@
+{"id":"7471","name":"带凿子的金质钥匙Gold Key with Chisel","transitionsToward":[],"transitionsAway":[{"targetID":"7471","newActorID":"455","newTargetID":"7283","hand":true}],"transitionsTimed":[],"numUses":5,"useChance":0.04,"craftable":false,"sounds":[455]}

@@ -1,0 +1,1 @@
+{"id":"8458","name":"带大堆木板的古石墙Ancient Stone Wall with Board Stack","transitionsToward":[],"transitionsAway":[{"targetID":"8458","newActorID":"470","newTargetID":"8457","hand":true}],"transitionsTimed":[],"craftable":false,"insulation":0.9,"blocksWalking":true,"sounds":[78]}

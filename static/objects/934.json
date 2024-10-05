@@ -1,0 +1,1 @@
+{"id":"934","name":"栅栏轨Fence Rail","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"934","newTargetID":"67","decay":"1s"}],"craftable":false,"minPickupAge":3}

@@ -1,0 +1,1 @@
+{"id":"12877","name":"铜管Copper Pipe  - TS  - SW  - justInstalled","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"12877","newTargetID":"12845","decay":"10s"}],"craftable":false,"sounds":[407]}

@@ -1,0 +1,1 @@
+{"id":"12021","name":"长满青苔的树苗Mossy Tree Sapling","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"12021","newTargetID":"12007","decay":"2h"}],"craftable":true,"depth":0,"mapChance":0.05,"biomes":[{"id":"1","spawnChance":0.00900900900900901}]}

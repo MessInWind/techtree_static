@@ -1,0 +1,1 @@
+{"id":"12875","name":"铜管Copper Pipe  - TN  - NW  - justInstalled","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"12875","newTargetID":"12843","decay":"10s"}],"craftable":false,"sounds":[407]}

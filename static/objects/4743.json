@@ -1,0 +1,1 @@
+{"id":"4743","name":"猛犸骨Mammoth Bones  - 2","transitionsToward":[{"targetID":"4742","newActorID":"4857","newTargetID":"4743","hand":true}],"transitionsAway":[],"transitionsTimed":[{"targetID":"4743","decay":"20m"}],"craftable":false,"speedMult":0.5,"techTree":[{"id":"4742","nodes":[{"id":"4706","nodes":[{"id":"5197","nodes":[]}]}]}]}

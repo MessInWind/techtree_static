@@ -1,0 +1,1 @@
+{"id":"25762","name":"派克Pike  -  活动专用 ","transitionsToward":[{"targetID":"25757","newTargetID":"25762","decay":"1s"}],"transitionsAway":[],"transitionsTimed":[{"targetID":"25762","decay":"2s"}],"craftable":false,"size":1,"minPickupAge":3,"sounds":[1207],"techTree":[{"decay":"1s"},{"id":"25757","nodes":[{"id":"25750","nodes":[{"decay":"5s"},{"id":"25735","nodes":[]}]}]}]}
