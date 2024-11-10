@@ -33,6 +33,29 @@
 
 <body>
     <div id="app">
+      <div class="link-container">
+        <a href="http://49.234.52.237:12345">镜像站 ①</a>
+        <!-- <a href="http://49.234.52.237:12345">镜像站 ②</a> -->
+        <style>
+          .link-container {
+              text-align: center;
+          }
+          .link-container a {
+              display: inline-block;
+              padding: 10px 20px;
+              margin: 10px;
+              font-size: 18px;
+              color: #fff;
+              background-color: #007bff;
+              text-decoration: none;
+              border-radius: 5px;
+              transition: background-color 0.3s ease;
+          }
+          .link-container a:hover {
+              background-color: #0056b3;
+          }
+        </style>
+      </div>
         <div id="loading">Loading...</div>
     </div>
     <script src="/dist/build.js"></script>
