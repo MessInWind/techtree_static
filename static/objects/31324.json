@@ -1,0 +1,1 @@
+{"id":"31324","name":"Bowl of Bagasse -  1S","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"31324","newTargetID":"2782","decay":"1s"}],"craftable":false,"size":2,"minPickupAge":3,"sounds":[342]}

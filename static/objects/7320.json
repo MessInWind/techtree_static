@@ -1,1 +1,1 @@
-{"id":"7320","name":"蜜蜂Honeybee - just left","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"7320","newTargetID":"4567","decay":"1s","move":3}],"craftable":false,"moveType":3,"moveDistance":1}
+{"id":"7320","name":"蜜蜂Honeybee - just left","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false}
