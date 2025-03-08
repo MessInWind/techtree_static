@@ -1,0 +1,1 @@
+{"id":"26619","name":"Marked Marble Grave and Chisel -  origGrave","transitionsToward":[],"transitionsAway":[{"targetID":"26619","newActorID":"455","newTargetID":"26614","hand":true},{"targetID":"26619","targetUses":"last","newActorID":"862","newTargetID":"26614","hand":true}],"transitionsTimed":[],"numUses":5,"useChance":0.04,"craftable":false,"blocksWalking":true}

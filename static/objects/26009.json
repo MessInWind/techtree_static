@@ -1,0 +1,1 @@
+{"id":"26009","name":"石炉和退火好的定子叠片 Stone Kiln with Stator Lamination - Stator insulation has ended","transitionsToward":[],"transitionsAway":[{"targetID":"26009","newActorID":"26010","newTargetID":"7179","hand":true}],"transitionsTimed":[],"craftable":false,"insulation":0.75,"blocksWalking":true,"sounds":[78]}

@@ -1,0 +1,1 @@
+{"id":"32216","name":"亚军奖杯 Trophy -  &writable 第一纪元","transitionsToward":[{"actorID":"32219","newTargetID":"32216","hand":true}],"transitionsAway":[{"targetID":"32216","newActorID":"32219","hand":true}],"transitionsTimed":[],"craftable":false,"size":2,"minPickupAge":3,"techTree":[{"id":"32219","nodes":[{"id":"32216","nodes":[{"id":"32219","nodes":[]}]}]}]}
