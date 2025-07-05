@@ -1,1 +1,1 @@
-{"id":"3048","name":"血腥的战剑Bloody War Sword","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"3048","newTargetID":"6740","decay":"1m"}],"craftable":false,"speedMult":0.25,"sounds":[1036]}
+{"id":"3048","name":"血腥的战剑Bloody War Sword","transitionsToward":[],"transitionsAway":[{"actorID":"3048","targetID":"33188","newActorID":"33192","newTargetID":"33190","hand":true}],"transitionsTimed":[{"targetID":"3048","newTargetID":"6740","decay":"1m"}],"craftable":false,"speedMult":0.25,"sounds":[1036]}

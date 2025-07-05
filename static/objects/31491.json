@@ -1,1 +1,1 @@
-{"id":"31491","name":"贝斯麦转炉 -  燃烧","transitionsToward":[{"targetID":"31490","newTargetID":"31491","hand":true,"tool":true}],"transitionsAway":[],"transitionsTimed":[{"targetID":"31491","newTargetID":"31492","decay":"30s"}],"numUses":12,"craftable":false,"blocksWalking":true,"sounds":[373],"techTree":[{"id":"31490","nodes":null}]}
+{"id":"31491","name":"贝斯麦转炉 -  燃烧","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"numUses":12,"craftable":false,"blocksWalking":true,"sounds":[373]}
