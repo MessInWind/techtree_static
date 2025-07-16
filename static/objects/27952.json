@@ -1,1 +1,1 @@
-{"id":"27952","name":"盆栽郁金香和郁金香剪枝 Potted Tulip Flower with Cut Tulip Flower  -  Red","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"speedMult":0.75,"sounds":[297]}
+{"id":"27952","name":"盆栽郁金香和郁金香剪枝 Potted Tulip Flower with Cut Tulip Flower  -  Red","transitionsToward":[],"transitionsAway":[{"targetID":"27952","newActorID":"27915","newTargetID":"27953","hand":true}],"transitionsTimed":[],"craftable":false,"speedMult":0.75,"sounds":[159]}

@@ -1,1 +1,1 @@
-{"id":"31329","name":"Bowl of Palm Kernels -  1S","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"31329","newTargetID":"2146","decay":"1s"}],"craftable":false,"size":2,"minPickupAge":3,"sounds":[342]}
+{"id":"31329","name":"Bowl of Palm KernelsBowl of Palm Kernels -  1S","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"31329","newTargetID":"2146","decay":"1s"}],"craftable":false,"size":2,"minPickupAge":3,"sounds":[342]}

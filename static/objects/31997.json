@@ -1,1 +1,1 @@
-{"id":"31997","name":"化学实验台和废水","transitionsToward":[],"transitionsAway":[{"actorID":"31311","targetID":"31997","newActorID":"31783","newTargetID":"31383","hand":true}],"transitionsTimed":[],"craftable":false,"blocksWalking":true,"sounds":[691]}
+{"id":"31997","name":"化学实验台和废水化学实验台和废水","transitionsToward":[],"transitionsAway":[{"actorID":"31311","targetID":"31997","newActorID":"31783","newTargetID":"31383","hand":true}],"transitionsTimed":[],"craftable":false,"blocksWalking":true,"sounds":[691]}

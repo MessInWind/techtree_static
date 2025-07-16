@@ -1,1 +1,1 @@
-{"id":"27906","name":"剪过的盆栽郁金香 Cut Potted Tulip Flower  -  Purple","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"size":3,"minPickupAge":14,"speedMult":0.75,"sounds":[297]}
+{"id":"27906","name":"剪过的盆栽郁金香 Cut Potted Tulip Flower  -  Purple","transitionsToward":[{"targetID":"27905","newActorID":"27868","newTargetID":"27906","hand":true}],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"size":3,"minPickupAge":14,"speedMult":0.75,"sounds":[297],"techTree":[{"id":"27905","nodes":null}]}

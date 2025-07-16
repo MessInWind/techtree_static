@@ -1,1 +1,1 @@
-{"id":"27766","name":"剪枝过的盆栽百合花 Cut Potted Lily Flower  -  Pink","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"size":3,"minPickupAge":14,"speedMult":0.75,"sounds":[297]}
+{"id":"27766","name":"剪枝过的盆栽百合花 Cut Potted Lily Flower  -  Pink","transitionsToward":[{"targetID":"27765","newActorID":"27727","newTargetID":"27766","hand":true}],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"size":3,"minPickupAge":14,"speedMult":0.75,"sounds":[297],"techTree":[{"id":"27765","nodes":null}]}
