@@ -1,0 +1,1 @@
+{"id":"28618","name":"Music Box - close","transitionsToward":[{"targetID":"28621","newTargetID":"28618","decay":"1s"}],"transitionsAway":[{"targetID":"28618","newTargetID":"28620","hand":true,"tool":true}],"transitionsTimed":[],"craftable":false,"minPickupAge":3,"techTree":[{"decay":"1s"},{"id":"28621","nodes":[{"id":"28619","nodes":[{"decay":"1s"},{"id":"28620","nodes":[]}]}]}]}

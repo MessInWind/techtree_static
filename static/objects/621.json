@@ -1,1 +1,1 @@
-{"id":"621","name":"标桩和填满的垃圾坑Filled Small Trash Pit with Stakes","transitionsToward":[],"transitionsAway":[{"targetID":"621","newActorID":"107","newTargetID":"618","hand":true}],"transitionsTimed":[],"craftable":false,"sounds":[826]}
+{"id":"621","name":"（已过时）带木桩的填满的垃圾坑Filled Small Trash Pit with Stakes","transitionsToward":[],"transitionsAway":[{"targetID":"621","newActorID":"107","newTargetID":"618","hand":true}],"transitionsTimed":[],"craftable":false,"sounds":[826]}

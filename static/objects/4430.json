@@ -1,1 +1,1 @@
-{"id":"4430","name":"庆祝的神社Celebrated Shrine  - A","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"4430","newTargetID":"4419","decay":"1h"}],"craftable":false,"sounds":[890]}
+{"id":"4430","name":"庆祝的社Celebrated Shrine  - A","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"4430","newTargetID":"4419","decay":"1h"}],"craftable":false,"sounds":[890]}
