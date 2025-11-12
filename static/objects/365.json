@@ -1,1 +1,1 @@
-{"id":"365","name":"被触碰的边界Touched Edge","transitionsToward":[{"targetID":"366","newTargetID":"365","hand":true,"tool":true}],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"blocksWalking":true,"techTree":[{"id":"366","nodes":null}]}
+{"id":"365","name":"被触碰的边界Touched Edge\r","transitionsToward":[{"targetID":"366","newTargetID":"365","hand":true,"tool":true}],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"blocksWalking":true,"techTree":[{"id":"366","nodes":null}]}

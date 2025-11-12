@@ -1,1 +1,1 @@
-{"id":"7402","name":"带浅色柴火的砍树Chopped Tree With Light Firewood  - big,log1,wood1","transitionsToward":[],"transitionsAway":[{"targetID":"7402","newActorID":"7394","newTargetID":"7406","hand":true}],"transitionsTimed":[],"craftable":false,"blocksWalking":true}
+{"id":"7402","name":"带浅色柴火的砍树Chopped Tree With Light Firewood  - big,log1,wood1\r","transitionsToward":[],"transitionsAway":[{"targetID":"7402","newActorID":"7394","newTargetID":"7406","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"blocksWalking":true}

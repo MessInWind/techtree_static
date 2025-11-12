@@ -1,1 +1,1 @@
-{"id":"7727","name":"商人帽子Merchant Hat","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"clothing":"h","insulation":0.15,"size":2,"minPickupAge":3,"sounds":[941,286]}
+{"id":"7727","name":"商人帽子Merchant Hat\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"clothing":"h\r","insulation":0,"size":2,"minPickupAge":3,"sounds":[941,286]}

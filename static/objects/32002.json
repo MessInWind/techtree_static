@@ -1,1 +1,1 @@
-{"id":"32002","name":"@ 化学容器物品 +contchemical","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"minPickupAge":3}
+{"id":"32002","name":"@ 化学容器物品 +contchemical\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"minPickupAge":3}

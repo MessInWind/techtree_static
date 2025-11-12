@@ -1,1 +1,1 @@
-{"id":"10462","name":"野蒜Wild Garlic","transitionsToward":[],"transitionsAway":[{"targetID":"10462","newActorID":"10463","hand":true}],"transitionsTimed":[],"craftable":true,"depth":0,"mapChance":0.1,"biomes":[{"id":"0","spawnChance":0.006198475175106926}]}
+{"id":"10462","name":"野蒜Wild Garlic\r","transitionsToward":[],"transitionsAway":[{"targetID":"10462","newActorID":"10463","hand":true}],"transitionsTimed":[],"craftable":true,"depth":0,"clothing":"n\r","insulation":0,"mapChance":0.1,"biomes":[{"id":"0","spawnChance":0.006198475175106926}]}

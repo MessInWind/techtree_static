@@ -1,1 +1,1 @@
-{"id":"5215","name":"扁石上的铁网格Iron Griddle on Flat Rock","transitionsToward":[{"targetID":"5274","newTargetID":"5215","decay":"10s"}],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"techTree":[{"decay":"10s"},{"id":"5274","nodes":null}]}
+{"id":"5215","name":"扁石上的铁网格Iron Griddle on Flat Rock\r","transitionsToward":[{"targetID":"5274","newTargetID":"5215","decay":"10s"}],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"techTree":[{"decay":"10s"},{"id":"5274","nodes":null}]}

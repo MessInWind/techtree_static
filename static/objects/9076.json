@@ -1,1 +1,1 @@
-{"id":"9076","name":"(outdated) Empty Camping Stove on Ashes","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"9076","newTargetID":"4770","decay":"10s"}],"craftable":false}
+{"id":"9076","name":"(outdated) Empty Camping Stove on Ashes\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"9076","newTargetID":"4770","decay":"10s"}],"craftable":false,"clothing":"n\r","insulation":0}

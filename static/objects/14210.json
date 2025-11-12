@@ -1,1 +1,1 @@
-{"id":"14210","name":"异国情调的花卉种子袋Exotic Flower Seed Bag","transitionsToward":[],"transitionsAway":[{"actorID":"14210","targetID":"14187","newActorID":"7630","newTargetID":"14202","hand":true}],"transitionsTimed":[],"craftable":false,"size":1,"minPickupAge":3,"sounds":[147]}
+{"id":"14210","name":"异国情调的花卉种子袋Exotic Flower Seed Bag\r","transitionsToward":[],"transitionsAway":[{"actorID":"14210","targetID":"14187","newActorID":"7630","newTargetID":"14202","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"size":1,"minPickupAge":3,"sounds":[147]}

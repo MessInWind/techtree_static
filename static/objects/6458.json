@@ -1,1 +1,1 @@
-{"id":"6458","name":"石墙Stone Wall - blacksmithflag","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"6458","newTargetID":"8641","decay":"10h"}],"craftable":false,"insulation":0.9,"blocksWalking":true,"sounds":[746]}
+{"id":"6458","name":"石墙Stone Wall - blacksmithflag\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"6458","newTargetID":"8641","decay":"10h"}],"craftable":false,"clothing":"n\r","insulation":0,"blocksWalking":true,"sounds":[746]}

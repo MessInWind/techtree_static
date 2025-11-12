@@ -1,1 +1,1 @@
-{"id":"10547","name":"(outdated) Full Bowl of Dry Rub","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"10547","newTargetID":"4336","decay":"1s"}],"craftable":false,"size":2,"minPickupAge":3,"sounds":[342]}
+{"id":"10547","name":"(outdated) Full Bowl of Dry Rub\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"10547","newTargetID":"4336","decay":"1s"}],"craftable":false,"clothing":"n\r","insulation":0,"size":2,"minPickupAge":3,"sounds":[342]}

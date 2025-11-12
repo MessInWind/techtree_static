@@ -1,1 +1,1 @@
-{"id":"7464","name":"带凿子的银质钥匙Silver Key with Chisel","transitionsToward":[],"transitionsAway":[{"targetID":"7464","newActorID":"455","newTargetID":"7276","hand":true}],"transitionsTimed":[],"numUses":5,"useChance":0.04,"craftable":false,"sounds":[455]}
+{"id":"7464","name":"带凿子的银质钥匙Silver Key with Chisel\r","transitionsToward":[],"transitionsAway":[{"targetID":"7464","newActorID":"455","newTargetID":"7276","hand":true}],"transitionsTimed":[],"numUses":5,"useChance":0.04,"craftable":false,"clothing":"n\r","insulation":0,"sounds":[455]}

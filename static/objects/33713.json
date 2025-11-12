@@ -1,0 +1,1 @@
+{"id":"33713","name":"mini Ban Hammer  - modTool 1S VOG","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"33713","newTargetID":"33711","decay":"1s"}],"craftable":false,"minPickupAge":3,"speedMult":2,"blocksWalking":true}

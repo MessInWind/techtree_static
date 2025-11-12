@@ -1,1 +1,1 @@
-{"id":"10266","name":"(outdated) Glass of Orange Juice","transitionsToward":[],"transitionsAway":[{"actorID":"10266","newActorID":"3341","targetPlayer":true,"hand":true}],"transitionsTimed":[],"foodValue":[2,15],"craftable":false,"minPickupAge":3,"sounds":[287,1497]}
+{"id":"10266","name":"(outdated) Glass of Orange Juice\r","transitionsToward":[],"transitionsAway":[{"actorID":"10266","newActorID":"3341","targetPlayer":true,"hand":true}],"transitionsTimed":[],"foodValue":[2,15],"craftable":false,"clothing":"n\r","insulation":0,"minPickupAge":3,"sounds":[287,1497]}

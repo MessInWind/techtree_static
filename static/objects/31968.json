@@ -1,1 +1,1 @@
-{"id":"31968","name":"一瓶淡罗云紫染料一瓶淡罗云紫染料 -  稀有","transitionsToward":[],"transitionsAway":[{"actorID":"31968","targetID":"730","newActorID":"31953","newTargetID":"31967","hand":true}],"transitionsTimed":[],"craftable":false,"size":1,"minPickupAge":3}
+{"id":"31968","name":"一瓶淡罗云紫染料 -  稀有\r","transitionsToward":[],"transitionsAway":[{"actorID":"31968","targetID":"730","newActorID":"31953","newTargetID":"31967","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"size":1,"minPickupAge":3}

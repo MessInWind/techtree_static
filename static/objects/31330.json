@@ -1,1 +1,1 @@
-{"id":"31330","name":"Bowl of Polished Glutinous RiceBowl of Polished Glutinous Rice -  1S","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"31330","newTargetID":"25058","decay":"1s"}],"craftable":false,"size":2,"minPickupAge":3,"sounds":[342]}
+{"id":"31330","name":"Bowl of Polished Glutinous RiceBowl of Polished Glutinous Rice -  1S\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"31330","newTargetID":"25058","decay":"1s"}],"craftable":false,"clothing":"n\r","insulation":0,"size":2,"minPickupAge":3,"sounds":[342]}

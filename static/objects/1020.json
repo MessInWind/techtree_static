@@ -1,1 +1,1 @@
-{"id":"1020","name":"雪堆Snow Bank","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"1020","newTargetID":"31097","decay":"1s"}],"craftable":true,"depth":0,"mapChance":0.25,"biomes":[{"id":"4","spawnChance":0.07120478496154942}]}
+{"id":"1020","name":"雪堆Snow Bank\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"1020","newTargetID":"31097","decay":"1s"}],"craftable":true,"depth":0,"clothing":"n\r","insulation":0,"mapChance":0.25,"biomes":[{"id":"4","spawnChance":0.07120478496154942}]}

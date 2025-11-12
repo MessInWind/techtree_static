@@ -1,1 +1,1 @@
-{"id":"366","name":"边界Edge","transitionsToward":[],"transitionsAway":[{"targetID":"366","newTargetID":"365","hand":true,"tool":true}],"transitionsTimed":[],"craftable":false,"blocksWalking":true}
+{"id":"366","name":"边界Edge\r","transitionsToward":[],"transitionsAway":[{"targetID":"366","newTargetID":"365","hand":true,"tool":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"blocksWalking":true}

@@ -1,1 +1,1 @@
-{"id":"4414","name":"（已过时）凯恩Cairn","transitionsToward":[],"transitionsAway":[{"actorID":"693","targetID":"4414","newTargetID":"4415","hand":true}],"transitionsTimed":[],"craftable":false,"sounds":[890]}
+{"id":"4414","name":"（已过时）凯恩Cairn\r","transitionsToward":[],"transitionsAway":[{"actorID":"693","targetID":"4414","newTargetID":"4415","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"sounds":[890]}

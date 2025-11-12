@@ -1,1 +1,1 @@
-{"id":"1625","name":"便条箭伤Note Arrow Wound -  &written","transitionsToward":[],"transitionsAway":[{"targetID":"1625","newActorID":"1627","newTargetID":"798","hand":true}],"transitionsTimed":[],"craftable":false,"speedMult":0.75}
+{"id":"1625","name":"便条箭伤Note Arrow Wound -  &written\r","transitionsToward":[],"transitionsAway":[{"targetID":"1625","newActorID":"1627","newTargetID":"798","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"speedMult":0.75}

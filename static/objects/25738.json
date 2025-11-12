@@ -1,1 +1,1 @@
-{"id":"25738","name":"鳕鱼钓鱼竿Fishing Pole with Cod  -  活动专用","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"25738","newTargetID":"25749","decay":"1s"}],"craftable":false}
+{"id":"25738","name":"鳕鱼钓鱼竿 -  活动专用\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"25738","newTargetID":"25749","decay":"1s"}],"craftable":false,"clothing":"n\r","insulation":0}

@@ -1,0 +1,1 @@
+{"id":"29022","name":"向日葵 Sunflower","transitionsToward":[],"transitionsAway":[{"actorID":"6616","targetID":"29022","newActorID":"235","newTargetID":"29068","hand":true}],"transitionsTimed":[],"craftable":false,"size":3,"minPickupAge":3,"speedMult":0.9,"sounds":[349]}

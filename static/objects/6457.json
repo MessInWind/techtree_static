@@ -1,1 +1,1 @@
-{"id":"6457","name":"石墙Stone Wall - kitchenflag","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"6457","newTargetID":"8639","decay":"10h"}],"craftable":false,"insulation":0.9,"blocksWalking":true,"sounds":[746]}
+{"id":"6457","name":"石墙Stone Wall - kitchenflag\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"6457","newTargetID":"8639","decay":"10h"}],"craftable":false,"clothing":"n\r","insulation":0,"blocksWalking":true,"sounds":[746]}

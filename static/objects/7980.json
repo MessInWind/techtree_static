@@ -1,1 +1,1 @@
-{"id":"7980","name":"石拱门Stone Arch  - flowers","transitionsToward":[],"transitionsAway":[{"actorID":"8257","targetID":"7980","newTargetID":"8123","hand":true}],"transitionsTimed":[],"craftable":false}
+{"id":"7980","name":"石拱门Stone Arch  - flowers\r","transitionsToward":[],"transitionsAway":[{"actorID":"8257","targetID":"7980","newTargetID":"8123","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0}

@@ -1,1 +1,1 @@
-{"id":"10454","name":"(outdated) Bowl of Dill Seeds","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"10454","newTargetID":"4243","decay":"1s"}],"numUses":5,"craftable":false,"size":2,"minPickupAge":3,"sounds":[1146]}
+{"id":"10454","name":"(outdated) Bowl of Dill Seeds\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"10454","newTargetID":"4243","decay":"1s"}],"numUses":5,"craftable":false,"clothing":"n\r","insulation":0,"size":2,"minPickupAge":3,"sounds":[1146]}

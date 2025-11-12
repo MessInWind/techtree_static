@@ -1,1 +1,1 @@
-{"id":"31334","name":"Bowl of SulfurBowl of Sulfur -  1S","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"31334","newTargetID":"2138","decay":"1s"}],"craftable":false,"size":2,"minPickupAge":3,"sounds":[342]}
+{"id":"31334","name":"Bowl of SulfurBowl of Sulfur -  1S\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"31334","newTargetID":"2138","decay":"1s"}],"craftable":false,"clothing":"n\r","insulation":0,"size":2,"minPickupAge":3,"sounds":[342]}

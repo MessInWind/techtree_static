@@ -1,1 +1,1 @@
-{"id":"13499","name":"石头与圈套Stone and Snare","transitionsToward":[],"transitionsAway":[{"targetID":"13499","newActorID":"33","newTargetID":"160","hand":true}],"transitionsTimed":[],"craftable":false,"sounds":[74]}
+{"id":"13499","name":"石头与圈套Stone and Snare\r","transitionsToward":[],"transitionsAway":[{"targetID":"13499","newActorID":"33","newTargetID":"160","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"sounds":[74]}

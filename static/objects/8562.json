@@ -1,1 +1,1 @@
-{"id":"8562","name":"老比格犬Old Beagle -  just fed","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"8562","newTargetID":"1752","decay":"3s","move":1}],"craftable":false,"speedMult":0.5,"sounds":[842],"moveType":1,"moveDistance":4}
+{"id":"8562","name":"老比格犬Old Beagle -  just fed\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"8562","newTargetID":"1752","decay":"3s","move":1}],"craftable":false,"clothing":"n\r","insulation":0,"speedMult":0.5,"sounds":[842],"moveType":1,"moveDistance":4}

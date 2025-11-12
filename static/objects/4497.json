@@ -1,1 +1,1 @@
-{"id":"4497","name":"牛奶桶Milk Bucket","transitionsToward":[],"transitionsAway":[{"actorID":"4497","targetID":"4470","newActorID":"659","newTargetID":"4471","hand":true}],"transitionsTimed":[],"craftable":false,"size":2,"minPickupAge":3,"sounds":[287]}
+{"id":"4497","name":"牛奶桶Milk Bucket\r","transitionsToward":[],"transitionsAway":[{"actorID":"4497","targetID":"4470","newActorID":"659","newTargetID":"4471","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"size":2,"minPickupAge":3,"sounds":[287]}
