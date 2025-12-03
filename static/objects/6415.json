@@ -1,1 +1,1 @@
-{"id":"6415","name":"布轮Clothing Wheel - complete\r","transitionsToward":[],"transitionsAway":[{"actorID":"6415","targetID":"6416","newTargetID":"6417","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"minPickupAge":3,"speedMult":0.5,"sounds":[69]}
+{"id":"6415","name":"布轮Clothing Wheel - complete","transitionsToward":[],"transitionsAway":[{"actorID":"6415","targetID":"6416","newTargetID":"6417","hand":true}],"transitionsTimed":[],"craftable":false,"minPickupAge":3,"speedMult":0.5,"sounds":[69]}

@@ -1,1 +1,1 @@
-{"id":"4496","name":"（已过时）湿黏土碗与黏土Wet Clay Bowl of Clay\r","transitionsToward":[],"transitionsAway":[{"actorID":"33","targetID":"4496","newActorID":"33","newTargetID":"4470","hand":true,"tool":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"size":2,"minPickupAge":3}
+{"id":"4496","name":"（已过时）湿黏土碗与黏土Wet Clay Bowl of Clay","transitionsToward":[],"transitionsAway":[{"actorID":"33","targetID":"4496","newActorID":"33","newTargetID":"4470","hand":true,"tool":true}],"transitionsTimed":[],"craftable":false,"size":2,"minPickupAge":3}

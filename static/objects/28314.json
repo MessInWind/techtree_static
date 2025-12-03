@@ -1,1 +1,1 @@
-{"id":"28314","name":"@ Dead Plant - Flowerpot\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"minPickupAge":3,"speedMult":0.9,"blocksWalking":true,"sounds":[349]}
+{"id":"28314","name":"@ Dead Plant - Flowerpot","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"insulation":0.9,"minPickupAge":3,"speedMult":0.9,"blocksWalking":true,"sounds":[349]}

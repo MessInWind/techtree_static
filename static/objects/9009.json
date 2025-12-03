@@ -1,1 +1,1 @@
-{"id":"9009","name":"短木棍和木轮Short Shaft with Wooden Wheel\r","transitionsToward":[],"transitionsAway":[{"targetID":"9009","newActorID":"69","newTargetID":"475","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"sounds":[500]}
+{"id":"9009","name":"短木棍和木轮Short Shaft with Wooden Wheel","transitionsToward":[],"transitionsAway":[{"targetID":"9009","newActorID":"69","newTargetID":"475","hand":true}],"transitionsTimed":[],"craftable":false,"sounds":[500]}

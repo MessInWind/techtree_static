@@ -1,1 +1,1 @@
-{"id":"10423","name":"(outdated) Bottle of Cream\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"10423","newTargetID":"3601","decay":"1s"}],"numUses":4,"craftable":false,"clothing":"n\r","insulation":0,"minPickupAge":3,"sounds":[287]}
+{"id":"10423","name":"(outdated) Bottle of Cream","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"10423","newTargetID":"3601","decay":"1s"}],"numUses":4,"craftable":false,"minPickupAge":3,"sounds":[287]}

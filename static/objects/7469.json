@@ -1,1 +1,1 @@
-{"id":"7469","name":"带凿子的铜质钥匙Copper Key with Chisel\r","transitionsToward":[],"transitionsAway":[{"targetID":"7469","newActorID":"455","newTargetID":"7269","hand":true}],"transitionsTimed":[],"numUses":5,"useChance":0.04,"craftable":false,"clothing":"n\r","insulation":0,"sounds":[455]}
+{"id":"7469","name":"带凿子的铜质钥匙Copper Key with Chisel","transitionsToward":[],"transitionsAway":[{"targetID":"7469","newActorID":"455","newTargetID":"7269","hand":true}],"transitionsTimed":[],"numUses":5,"useChance":0.04,"craftable":false,"sounds":[455]}

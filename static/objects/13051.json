@@ -1,1 +1,1 @@
-{"id":"13051","name":"野洋葱Wild Onion  - tutorial\r","transitionsToward":[],"transitionsAway":[{"targetID":"13051","newActorID":"13052","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0}
+{"id":"13051","name":"野洋葱Wild Onion  - tutorial","transitionsToward":[],"transitionsAway":[{"targetID":"13051","newActorID":"13052","hand":true}],"transitionsTimed":[],"craftable":false}

@@ -1,1 +1,1 @@
-{"id":"872","name":"@ Decaying Bottom\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"872","newTargetUses":"-1","newTargetID":"866","decay":"5h"}],"craftable":false,"clothing":"s\r","insulation":0,"minPickupAge":3}
+{"id":"872","name":"@ Decaying Bottom","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"872","newTargetUses":"-1","newTargetID":"866","decay":"5h"}],"craftable":false,"clothing":"s","insulation":0,"minPickupAge":3}

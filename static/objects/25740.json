@@ -1,1 +1,1 @@
-{"id":"25740","name":"鳟鱼钓竿 -  活动专用\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"25740","newTargetID":"25751","decay":"1s"}],"craftable":false,"clothing":"n\r","insulation":0}
+{"id":"25740","name":"鳟鱼钓竿 -  活动专用","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"25740","newTargetID":"25751","decay":"1s"}],"craftable":false}

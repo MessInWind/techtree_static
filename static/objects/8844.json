@@ -1,1 +1,1 @@
-{"id":"8844","name":"柱形仙人掌Cactus\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":true,"depth":0,"clothing":"n\r","insulation":0,"mapChance":0.05,"biomes":[{"id":"5","spawnChance":0.007521624670928922}],"blocksWalking":true}
+{"id":"8844","name":"柱形仙人掌Cactus","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":true,"depth":0,"mapChance":0.05,"biomes":[{"id":"5","spawnChance":0.007521624670928922}],"blocksWalking":true}

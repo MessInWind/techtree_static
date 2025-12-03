@@ -1,1 +1,1 @@
-{"id":"10426","name":"(outdated) Bottle of Whole Milk\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"10426","newTargetID":"3593","decay":"1s"}],"numUses":4,"craftable":false,"clothing":"n\r","insulation":0,"minPickupAge":3,"sounds":[287]}
+{"id":"10426","name":"(outdated) Bottle of Whole Milk","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"10426","newTargetID":"3593","decay":"1s"}],"numUses":4,"craftable":false,"minPickupAge":3,"sounds":[287]}

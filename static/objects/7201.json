@@ -1,1 +1,1 @@
-{"id":"7201","name":"带引火柴的石窑Stone Kiln with Kindling  - no door\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"7201","newTargetID":"7189","decay":"1s"}],"numUses":5,"craftable":false,"clothing":"n\r","insulation":0,"blocksWalking":true,"sounds":[343]}
+{"id":"7201","name":"带引火柴的石窑Stone Kiln with Kindling  - no door","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"7201","newTargetID":"7189","decay":"1s"}],"numUses":5,"craftable":false,"insulation":0.75,"blocksWalking":true,"sounds":[343]}

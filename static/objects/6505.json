@@ -1,1 +1,1 @@
-{"id":"6505","name":"熟猪肉Cooked Pork on Plate\r","transitionsToward":[],"transitionsAway":[{"targetID":"6505","newActorID":"6504","newTargetID":"236","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"minPickupAge":3,"sounds":[352]}
+{"id":"6505","name":"熟猪肉Cooked Pork on Plate","transitionsToward":[],"transitionsAway":[{"targetID":"6505","newActorID":"6504","newTargetID":"236","hand":true}],"transitionsTimed":[],"craftable":false,"minPickupAge":3,"sounds":[352]}

@@ -1,1 +1,1 @@
-{"id":"12776","name":"@ Wall  - pipe  - EW\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"blocksWalking":true,"sounds":[407]}
+{"id":"12776","name":"@ Wall  - pipe  - EW","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"insulation":0.75,"blocksWalking":true,"sounds":[407]}

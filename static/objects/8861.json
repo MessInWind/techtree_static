@@ -1,1 +1,1 @@
-{"id":"8861","name":"岩石Rock\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":true,"depth":0,"clothing":"n\r","insulation":0,"mapChance":0.001,"biomes":[{"id":"7","spawnChance":0.0009767532721234621}],"blocksWalking":true}
+{"id":"8861","name":"岩石Rock","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":true,"depth":0,"mapChance":0.001,"biomes":[{"id":"7","spawnChance":0.0009767532721234621}],"blocksWalking":true}

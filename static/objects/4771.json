@@ -1,1 +1,1 @@
-{"id":"4771","name":"(outdated) Camping Stove  - water\r","transitionsToward":[],"transitionsAway":[{"actorID":"4771","targetID":"85","newTargetID":"5277","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"sounds":[69]}
+{"id":"4771","name":"(outdated) Camping Stove  - water","transitionsToward":[],"transitionsAway":[{"actorID":"4771","targetID":"85","newTargetID":"5277","hand":true}],"transitionsTimed":[],"craftable":false,"sounds":[69]}

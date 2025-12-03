@@ -1,1 +1,1 @@
-{"id":"5274","name":"热铁煎锅Hot Iron Griddle  - flat rock\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"5274","newTargetID":"5215","decay":"10s"}],"craftable":false,"clothing":"n\r","insulation":0,"sounds":[407]}
+{"id":"5274","name":"热铁煎锅Hot Iron Griddle  - flat rock","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"5274","newTargetID":"5215","decay":"10s"}],"craftable":false,"sounds":[407]}

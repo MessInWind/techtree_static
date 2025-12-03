@@ -1,1 +1,1 @@
-{"id":"2347","name":"煤芯外壳Wick Housing\r","transitionsToward":[],"transitionsAway":[{"actorID":"2347","targetID":"3076","newTargetID":"495","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"size":1,"minPickupAge":3,"sounds":[1557]}
+{"id":"2347","name":"煤芯外壳Wick Housing","transitionsToward":[],"transitionsAway":[{"actorID":"2347","targetID":"3076","newTargetID":"495","hand":true}],"transitionsTimed":[],"craftable":false,"size":1,"minPickupAge":3,"sounds":[1557]}

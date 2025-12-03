@@ -1,1 +1,1 @@
-{"id":"30354","name":"盆栽向日葵Potted Sunflower\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"30354","newTargetID":"30889","decay":"1s"}],"craftable":false,"clothing":"n\r","insulation":0,"size":3,"minPickupAge":12,"speedMult":0.75}
+{"id":"30354","name":"盆栽向日葵Potted Sunflower","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"30354","newTargetID":"30889","decay":"1s"}],"craftable":false,"size":3,"minPickupAge":12,"speedMult":0.75}

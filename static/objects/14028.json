@@ -1,1 +1,1 @@
-{"id":"14028","name":"荷叶Lily Pads\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":true,"depth":0,"clothing":"n\r","insulation":0,"mapChance":0.002,"biomes":[{"id":"7","spawnChance":0.0019535065442469243}],"blocksWalking":true}
+{"id":"14028","name":"荷叶Lily Pads","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":true,"depth":0,"mapChance":0.002,"biomes":[{"id":"7","spawnChance":0.0019535065442469243}],"blocksWalking":true}

@@ -1,1 +1,1 @@
-{"id":"4571","name":"（已过时）Platform(outdated) Platform\r","transitionsToward":[],"transitionsAway":[{"actorID":"4570","targetID":"4571","newTargetID":"4572","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"size":2,"minPickupAge":3,"sounds":[509]}
+{"id":"4571","name":"（已过时）Platform(outdated) Platform","transitionsToward":[],"transitionsAway":[{"actorID":"4570","targetID":"4571","newTargetID":"4572","hand":true}],"transitionsTimed":[],"craftable":false,"size":2,"minPickupAge":3,"sounds":[509]}

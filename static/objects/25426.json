@@ -1,1 +1,1 @@
-{"id":"25426","name":"小红围裙Little Red Apron\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"clothing":"t\r","insulation":0,"numSlots":2,"slotSize":1,"size":2,"minPickupAge":3,"sounds":[941,286]}
+{"id":"25426","name":"小红围裙Little Red Apron","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"clothing":"t","insulation":0.3605,"numSlots":2,"slotSize":1,"size":2,"minPickupAge":3,"sounds":[941,286]}

@@ -1,1 +1,1 @@
-{"id":"32257","name":"带灰烬的壁炉Firepit with Ashes -  eveHomeMarker\r","transitionsToward":[],"transitionsAway":[{"actorID":"292","targetID":"32257","newActorID":"298","newTargetID":"32258","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"sounds":[113]}
+{"id":"32257","name":"带灰烬的壁炉Firepit with Ashes -  eveHomeMarker","transitionsToward":[],"transitionsAway":[{"actorID":"292","targetID":"32257","newActorID":"298","newTargetID":"32258","hand":true}],"transitionsTimed":[],"craftable":false,"sounds":[113]}

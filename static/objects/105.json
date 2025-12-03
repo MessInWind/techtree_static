@@ -1,1 +1,1 @@
-{"id":"105","name":"半木制框架Half Wooden Frame\r","transitionsToward":[],"transitionsAway":[{"actorID":"92","targetID":"105","newTargetID":"104","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"sounds":[74]}
+{"id":"105","name":"半木制框架Half Wooden Frame","transitionsToward":[],"transitionsAway":[{"actorID":"92","targetID":"105","newTargetID":"104","hand":true}],"transitionsTimed":[],"craftable":false,"sounds":[74]}

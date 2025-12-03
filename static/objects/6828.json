@@ -1,1 +1,1 @@
-{"id":"6828","name":"一堆陷阱Pile of Snares\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"6828","newTargetID":"3913","decay":"1s"}],"numUses":5,"craftable":false,"clothing":"n\r","insulation":0,"sounds":[147]}
+{"id":"6828","name":"一堆陷阱Pile of Snares","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"6828","newTargetID":"3913","decay":"1s"}],"numUses":5,"craftable":false,"sounds":[147]}

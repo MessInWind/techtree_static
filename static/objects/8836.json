@@ -1,1 +1,1 @@
-{"id":"8836","name":"石膏墙Plaster Wall  - holder\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"numSlots":3,"slotSize":1,"blocksWalking":true,"sounds":[349]}
+{"id":"8836","name":"石膏墙Plaster Wall  - holder","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"insulation":0.9,"numSlots":3,"slotSize":1,"blocksWalking":true,"sounds":[349]}

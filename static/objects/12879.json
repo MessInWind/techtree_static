@@ -1,1 +1,1 @@
-{"id":"12879","name":"铜管Copper Pipe  - TW  - SW  - justInstalled\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"12879","newTargetID":"12846","decay":"10s"}],"craftable":false,"clothing":"n\r","insulation":0,"sounds":[407]}
+{"id":"12879","name":"铜管Copper Pipe  - TW  - SW  - justInstalled","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"12879","newTargetID":"12846","decay":"10s"}],"craftable":false,"sounds":[407]}

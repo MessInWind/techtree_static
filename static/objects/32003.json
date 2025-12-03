@@ -1,1 +1,1 @@
-{"id":"32003","name":"@ 试剂容器物品 +contreagent\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"size":2,"minPickupAge":3}
+{"id":"32003","name":"@ 试剂容器物品 +contreagent","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"size":2,"minPickupAge":3}

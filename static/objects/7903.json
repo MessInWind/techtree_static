@@ -1,1 +1,1 @@
-{"id":"7903","name":"带有分馏器的储罐Tank with Fractional Distiller\r","transitionsToward":[],"transitionsAway":[{"targetID":"7903","newActorID":"2336","newTargetID":"7902","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"speedMult":0.75}
+{"id":"7903","name":"带有分馏器的储罐Tank with Fractional Distiller","transitionsToward":[],"transitionsAway":[{"targetID":"7903","newActorID":"2336","newTargetID":"7902","hand":true}],"transitionsTimed":[],"craftable":false,"speedMult":0.75}

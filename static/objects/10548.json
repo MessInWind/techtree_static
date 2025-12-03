@@ -1,1 +1,1 @@
-{"id":"10548","name":"(outdated) Bowl of Dry Rub\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"10548","newTargetID":"4337","decay":"1s"}],"numUses":4,"craftable":false,"clothing":"n\r","insulation":0,"size":2,"minPickupAge":3,"sounds":[342]}
+{"id":"10548","name":"(outdated) Bowl of Dry Rub","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"10548","newTargetID":"4337","decay":"1s"}],"numUses":4,"craftable":false,"size":2,"minPickupAge":3,"sounds":[342]}

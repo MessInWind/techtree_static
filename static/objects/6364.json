@@ -1,1 +1,1 @@
-{"id":"6364","name":"火箭爆炸Rocket Explosion\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"6364","decay":"2m"}],"heatValue":8,"craftable":false,"clothing":"n\r","insulation":0,"deadlyDistance":2,"sounds":[110]}
+{"id":"6364","name":"火箭爆炸Rocket Explosion","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"6364","decay":"2m"}],"heatValue":8,"craftable":false,"deadlyDistance":2,"sounds":[110]}

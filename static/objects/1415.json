@@ -1,1 +1,1 @@
-{"id":"1415","name":"教程结束火炬Final Tutorial Torch\r","transitionsToward":[],"transitionsAway":[{"actorID":"248","targetID":"1415","newActorID":"248","newTargetID":"1416","hand":true,"tool":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"blocksWalking":true}
+{"id":"1415","name":"教程结束火炬Final Tutorial Torch","transitionsToward":[],"transitionsAway":[{"actorID":"248","targetID":"1415","newActorID":"248","newTargetID":"1416","hand":true,"tool":true}],"transitionsTimed":[],"craftable":false,"blocksWalking":true}

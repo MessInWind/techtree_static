@@ -1,1 +1,1 @@
-{"id":"11544","name":"(outdated) Mining Pit  - precious\r","transitionsToward":[],"transitionsAway":[{"actorID":"666","targetID":"11544","newTargetID":"11546","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"blocksWalking":true,"sounds":[1074]}
+{"id":"11544","name":"(outdated) Mining Pit  - precious","transitionsToward":[],"transitionsAway":[{"actorID":"666","targetID":"11544","newTargetID":"11546","hand":true}],"transitionsTimed":[],"craftable":false,"blocksWalking":true,"sounds":[1074]}

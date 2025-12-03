@@ -1,1 +1,1 @@
-{"id":"31333","name":"Bowl of Silver FlakesBowl of Silver Flakes -  1S\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"31333","newTargetID":"7450","decay":"1s"}],"craftable":false,"clothing":"n\r","insulation":0,"size":2,"minPickupAge":3,"sounds":[342]}
+{"id":"31333","name":"Bowl of Silver FlakesBowl of Silver Flakes -  1S","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"31333","newTargetID":"7450","decay":"1s"}],"craftable":false,"size":2,"minPickupAge":3,"sounds":[342]}

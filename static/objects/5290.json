@@ -1,1 +1,1 @@
-{"id":"5290","name":"铜包剑Copper Clad Sword - flat rock\r","transitionsToward":[],"transitionsAway":[{"targetID":"5290","newActorID":"4809","newTargetID":"291","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"sounds":[407]}
+{"id":"5290","name":"铜包剑Copper Clad Sword - flat rock","transitionsToward":[],"transitionsAway":[{"targetID":"5290","newActorID":"4809","newTargetID":"291","hand":true}],"transitionsTimed":[],"craftable":false,"sounds":[407]}

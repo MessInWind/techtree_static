@@ -1,1 +1,1 @@
-{"id":"6440","name":"Bowl of Bait(outdated) Cheese Wedge In a Bowl\r","transitionsToward":[],"transitionsAway":[{"targetID":"6440","newActorID":"4495","newTargetID":"235","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"size":2,"minPickupAge":3,"sounds":[352]}
+{"id":"6440","name":"Bowl of Bait(outdated) Cheese Wedge In a Bowl","transitionsToward":[],"transitionsAway":[{"targetID":"6440","newActorID":"4495","newTargetID":"235","hand":true}],"transitionsTimed":[],"craftable":false,"size":2,"minPickupAge":3,"sounds":[352]}

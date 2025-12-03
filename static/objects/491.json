@@ -1,1 +1,1 @@
-{"id":"491","name":"留声机Phonograph\r","transitionsToward":[],"transitionsAway":[{"actorID":"490","targetID":"491","newTargetID":"492","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0}
+{"id":"491","name":"留声机Phonograph","transitionsToward":[],"transitionsAway":[{"actorID":"490","targetID":"491","newTargetID":"492","hand":true}],"transitionsTimed":[],"craftable":false}

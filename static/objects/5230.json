@@ -1,1 +1,1 @@
-{"id":"5230","name":"白杨树苗Poplar Sapling\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"5230","newTargetID":"45","decay":"4h"}],"craftable":false,"clothing":"n\r","insulation":0}
+{"id":"5230","name":"白杨树苗Poplar Sapling","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"5230","newTargetID":"45","decay":"4h"}],"craftable":false}

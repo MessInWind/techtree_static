@@ -1,1 +1,1 @@
-{"id":"6471","name":"石墙Stone Wall - flagholdefloor\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"blocksWalking":true,"sounds":[286]}
+{"id":"6471","name":"石墙Stone Wall - flagholdefloor","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"insulation":0.9,"blocksWalking":true,"sounds":[286]}

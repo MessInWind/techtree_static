@@ -1,1 +1,1 @@
-{"id":"10427","name":"(outdated) Bottle of Whole Milk  - stopper\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"10427","newTargetID":"3665","decay":"1s"}],"numUses":4,"craftable":false,"clothing":"n\r","insulation":0,"size":2,"minPickupAge":3,"sounds":[6]}
+{"id":"10427","name":"(outdated) Bottle of Whole Milk  - stopper","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[{"targetID":"10427","newTargetID":"3665","decay":"1s"}],"numUses":4,"craftable":false,"size":2,"minPickupAge":3,"sounds":[6]}

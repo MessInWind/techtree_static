@@ -1,1 +1,1 @@
-{"id":"3371","name":"(outdated) Table -  +contFoodDish +useOnContained\r","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"numSlots":3,"slotSize":2,"blocksWalking":true,"sounds":[198,588,591,594,595]}
+{"id":"3371","name":"(outdated) Table -  +contFoodDish +useOnContained","transitionsToward":[],"transitionsAway":[],"transitionsTimed":[],"craftable":false,"numSlots":3,"slotSize":2,"blocksWalking":true,"sounds":[198,588,591,594,595]}

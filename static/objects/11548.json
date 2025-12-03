@@ -1,1 +1,1 @@
-{"id":"11548","name":"(outdated) Mine Shaft  - exhausted engine\r","transitionsToward":[],"transitionsAway":[{"targetID":"11548","newActorID":"2365","newTargetID":"11549","hand":true}],"transitionsTimed":[],"craftable":false,"clothing":"n\r","insulation":0,"blocksWalking":true,"sounds":[981]}
+{"id":"11548","name":"(outdated) Mine Shaft  - exhausted engine","transitionsToward":[],"transitionsAway":[{"targetID":"11548","newActorID":"2365","newTargetID":"11549","hand":true}],"transitionsTimed":[],"craftable":false,"blocksWalking":true,"sounds":[981]}
